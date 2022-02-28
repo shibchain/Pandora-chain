@@ -1,27 +1,27 @@
 # SHIB Chain
 
 ## Introduction to SHIB Chain
-SHIB Chain (SHIBC) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Heco is HT and it adopts the HPoS consensus mechanism. SHIBC will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
+SHIB Chain (SHIBC) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of SHIBC is SHIB and it adopts the SPoS consensus mechanism. SHIBC will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
 
 ## Declaration
 To help developers’ evolvement at every stage 
 
 ## Vision
-Technological innovation is the driving force behind the advancement of the blockchain industry, but many innovative projects have been misunderstood and ignored at their early stages. We have witnessed the growth process of great projects. Recalling that Ethereum and Polkadot were questioned as altcoins in the early days, they all went through difficult times. Therefore, Heco's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Heco is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
+Technological innovation is the driving force behind the advancement of the blockchain industry, but many innovative projects have been misunderstood and ignored at their early stages. We have witnessed the growth process of great projects. Recalling that Ethereum and Polkadot were questioned as altcoins in the early days, they all went through difficult times. Therefore, SHIBC's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Heco is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
 
 ## SHIBC’s Performance
 - TPS: 2000+
 - Average block interval: 3s
 
 ## Consensus Mechanism
-HPoS consensus mechanism: it has the characteristics of low transaction cost, low transaction delay, and high transaction concurrency.
+SPoS consensus mechanism: it has the characteristics of low transaction cost, low transaction delay, and high transaction concurrency.
 
 The maximum number of validators supported is 21.
 
 ## Economic Model 
-The endogenous token on the chain is HT; the transactions consume HT as gas fee.
+The endogenous token on the chain is SHIB; the transactions consume SHIB as gas fee.
 
-Miners pledge HT to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
+Miners pledge SHIB to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
 
 ## Cross-Chain
 Assets such as BTC, ETH and stable coins can be mapped to Heco by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on SHIBC. 
@@ -46,13 +46,13 @@ The meta-transaction function is supported, which allows users to reduce gas fee
 </tr>
 <tr style="background:rgba(0,0,0,0)" >
 <tr style="background:rgba(0,0,0,0)" ><td rowspan=9 >Tinder</td><td rowspan=9 >
-The initial version of Heco.
+The initial version of SHIBC.
 
 The system is stable and easy to use.
 
 Developers can develop and promote Dapp at low cost.
 
-Users can participate in Dapp on Heco with a low threshold.</td><td rowspan=9 >2020 Q4-2021 Q1</td><td rowspan=3 >Public Beta</td><td>Higher transaction performance</td></tr>
+Users can participate in Dapp on Heco with a low threshold.</td><td rowspan=9 >2021 Q4-2022 Q1</td><td rowspan=3 >Public Beta</td><td>Higher transaction performance</td></tr>
 <tr style="background:rgba(0,0,0,0)" ><td>Lower transaction costs</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Meta transaction subsidy</td></tr>
 <tr style="background:rgba(0,0,0,0)"> <td rowspan=3 >Node Election</td><td>More decentralized and safer</td></tr>
