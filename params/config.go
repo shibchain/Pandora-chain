@@ -42,7 +42,7 @@ var CheckpointOracles = map[common.Hash]*CheckpointOracleConfig{}
 var (
 	// MainnetChainConfig is the chain parameters to run a node on the main network.
 	MainnetChainConfig = &ChainConfig{
-		ChainID:             big.NewInt(128),
+		ChainID:             big.NewInt(144),
 		HomesteadBlock:      big.NewInt(0),
 		DAOForkBlock:        nil,
 		DAOForkSupport:      true,
@@ -70,7 +70,7 @@ var (
 
 	// TestnetChainConfig contains the chain parameters to run a node on the YOLOv1 test network.
 	TestnetChainConfig = &ChainConfig{
-		ChainID:             big.NewInt(256),
+		ChainID:             big.NewInt(244),
 		HomesteadBlock:      big.NewInt(0),
 		DAOForkBlock:        nil,
 		DAOForkSupport:      true,
@@ -94,7 +94,7 @@ var (
 
 	// RopstenChainConfig contains the chain parameters to run a node on the Ropsten test network.
 	RopstenChainConfig = &ChainConfig{
-		ChainID:             big.NewInt(3),
+		ChainID:             big.NewInt(344),
 		HomesteadBlock:      big.NewInt(0),
 		DAOForkBlock:        nil,
 		DAOForkSupport:      true,
