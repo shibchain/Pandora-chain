@@ -1,7 +1,7 @@
-# HECO Chain
+# SHIB Chain
 
-## Introduction to HECO Chain
-HECO Chain (Heco) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Heco is HT and it adopts the HPoS consensus mechanism. Heco will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
+## Introduction to SHIB Chain
+SHIB Chain (SHIBC) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of Heco is HT and it adopts the HPoS consensus mechanism. Heco will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
 
 ## Declaration
 To help developers’ evolvement at every stage 
@@ -9,7 +9,7 @@ To help developers’ evolvement at every stage
 ## Vision
 Technological innovation is the driving force behind the advancement of the blockchain industry, but many innovative projects have been misunderstood and ignored at their early stages. We have witnessed the growth process of great projects. Recalling that Ethereum and Polkadot were questioned as altcoins in the early days, they all went through difficult times. Therefore, Heco's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Heco is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
 
-## Heco’s Performance
+## SHIBC’s Performance
 - TPS: 2000+
 - Average block interval: 3s
 
@@ -24,20 +24,20 @@ The endogenous token on the chain is HT; the transactions consume HT as gas fee.
 Miners pledge HT to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
 
 ## Cross-Chain
-Assets such as BTC, ETH and stable coins can be mapped to Heco by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Heco. 
+Assets such as BTC, ETH and stable coins can be mapped to Heco by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on SHIBC. 
 
-Heco encourages developers to provide more decentralized cross-chain solution.  
+SHIBC encourages developers to provide more decentralized cross-chain solution.  
 
 ## Meta Transaction Function
 The meta-transaction function is supported, which allows users to reduce gas fees step-wise, and Heco will cover the payment of the reduced part. The meta-transaction function allows to minimize the migration cost of DApp developers, as well as to effectively reduce the cost of DApp users.
 
-## Heco Technical Characteristics
+## SHIBC Technical Characteristics
 - An open and decentralized network to maintain the security of the network and assets.
 - Support the programmability of EVM, the compatibility of smart contracts to reduce development or migration costs.
 - Meta-transaction function: gas fee reduction, effectively reducing the cost of developers and users on the chain.
 - Support cross-chain asset transfer to optimize users’ experience.
 
-## Four Stages of Heco
+## Four Stages of SHIBC
 
 <table >
     <tr style="background:rgba(0,0,0,0)" ><th colspan=5>Heco Technical Route</th> </tr>
@@ -112,39 +112,39 @@ In October 2021, HECO has now entered the "Spark" phase, which focuses on improv
 ### Participate in Test Environment of Heco
 
 #### Official Website
-www.hecochain.com
+www.muchain.io
 
 #### Public Testnet
 chainid 256
 
 #### PRC
 
-wss://ws-testnet.hecochain.com
-https://http-testnet.hecochain.com
+wss://ws-testnet.muchain.io
+https://http-testnet.muchain.io
 
 #### Blockchain Explorer
 
-https://scan-testnet.hecochain.com
+https://scan-testnet.muchain.io
 
 #### Test Coin Faucet
 
-https://scan-testnet.hecochain.com/faucet
+https://scan-testnet.muchain.io/faucet
 
 
 #### Technical Support Email
 
-DevContacts@hecochain.com
+info@muchain.io
 
 
 ## Interact with Us on Social Media
 
-- Twitter: https://twitter.com/HECO_Chain
-- Telegram Channel: https://t.me/Huobiecochainofficial
+- Twitter: https://twitter.com/ShibMuChain
+- Telegram Channel: https://t.me/ShibMuChain
 - Medium: https://medium.com/heco-chain
-- GitHub: https://github.com/stars-labs/
-- HECO Explorer: https://hecoinfo.com
-- Documentation: https://docs.hecochain.com/#/en-us/intro
-- Website: https://www.hecochain.com/en-us/
+- GitHub: https://github.com/shibchain/public-chain
+- SHIBC Explorer: https://explorer.muchain.io
+- Documentation: https://docs.muchain.io/#/en-us/intro
+- Website: https://www.muchain.io/en-us/
 
 
 ## Risk Warning
