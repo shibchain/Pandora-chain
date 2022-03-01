@@ -93,12 +93,12 @@ Support a variety of traditional businesses to run smoothly on the chain</td> <t
 
 
 
-## Current Stage of Heco
+## Current Stage of SHIBC
 In December 2020, the HECO Chain, Heco officially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
 Oracles, Voting tools, Anchor Coins, DEX, Lending, Financial Management, Insurance, Synthetic Assets, Cross-Chain Solutions, Data Analysis, Smart Contract Innovation, etc.
 In October 2021, HECO has now entered the "Spark" phase, which focuses on improving developer and user experience and infrastructure.
 
-## Support Plan of Heco
+## Support Plan of SHIBC
 ### Financial Support
 - Heco will set up a special fund to invest, support and incentivize high-potential developers.
 - Heco will launch a variety of developer activities and competitions to discover and fund potential developers. 
@@ -109,7 +109,7 @@ In October 2021, HECO has now entered the "Spark" phase, which focuses on improv
 - High-quality projects can participate in Heco global roadshows for free.
 - Huobi ventures HECO fund will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
 
-### Participate in Test Environment of Heco
+### Participate in Test Environment of SHIBC
 
 #### Official Website
 www.muchain.io
