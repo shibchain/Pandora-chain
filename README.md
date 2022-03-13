@@ -1,6 +1,6 @@
-# SHIB Chain
+# pandora Chain
 
-## Introduction to SHIB Chain
+## Introduction to pandora Chain
 SHIB Chain (SHIBC) is a decentralized, high-efficiency and energy-saving public chain. It is compatible with smart contracts and supports high- performance transactions. The endogenous token of SHIBC is SHIB and it adopts the SPoS consensus mechanism. SHIBC will continue to improve the efficiency of Ethereum by Layer2, which will supplement and empower the Ethereum ecosystem.
 
 ## Declaration
@@ -9,7 +9,7 @@ To help developers’ evolvement at every stage
 ## Vision
 Technological innovation is the driving force behind the advancement of the blockchain industry, but many innovative projects have been misunderstood and ignored at their early stages. We have witnessed the growth process of great projects. Recalling that Ethereum and Polkadot were questioned as altcoins in the early days, they all went through difficult times. Therefore, SHIBC's mission is not only a public chain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Heco is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
 
-## SHIBC’s Performance
+## PCD’s Performance
 - TPS: 2000+
 - Average block interval: 3s
 
@@ -31,13 +31,13 @@ SHIBC encourages developers to provide more decentralized cross-chain solution.
 ## Meta Transaction Function
 The meta-transaction function is supported, which allows users to reduce gas fees step-wise, and Heco will cover the payment of the reduced part. The meta-transaction function allows to minimize the migration cost of DApp developers, as well as to effectively reduce the cost of DApp users.
 
-## SHIBC Technical Characteristics
+## PCD Technical Characteristics
 - An open and decentralized network to maintain the security of the network and assets.
 - Support the programmability of EVM, the compatibility of smart contracts to reduce development or migration costs.
 - Meta-transaction function: gas fee reduction, effectively reducing the cost of developers and users on the chain.
 - Support cross-chain asset transfer to optimize users’ experience.
 
-## Four Stages of SHIBC
+## Four Stages of PCD
 
 <table >
     <tr style="background:rgba(0,0,0,0)" ><th colspan=5>Heco Technical Route</th> </tr>
@@ -93,12 +93,12 @@ Support a variety of traditional businesses to run smoothly on the chain</td> <t
 
 
 
-## Current Stage of SHIBC
+## Current Stage of PCD
 In December 2020, the HECO Chain, Heco officially launched its "Tinder" phase, which will focus on improving the on-chain infrastructure, including but not limited to:
 Oracles, Voting tools, Anchor Coins, DEX, Lending, Financial Management, Insurance, Synthetic Assets, Cross-Chain Solutions, Data Analysis, Smart Contract Innovation, etc.
 In October 2021, HECO has now entered the "Spark" phase, which focuses on improving developer and user experience and infrastructure.
 
-## Support Plan of SHIBC
+## Support Plan of PCD
 ### Financial Support
 - Heco will set up a special fund to invest, support and incentivize high-potential developers.
 - Heco will launch a variety of developer activities and competitions to discover and fund potential developers. 
@@ -119,16 +119,16 @@ chainid 256
 
 #### PRC
 
-wss://ws-testnet.muchain.io
-https://http-testnet.muchain.io
+wss://ws-testnet.pandora.net
+https://http-testnet.pandora.net
 
 #### Blockchain Explorer
 
-https://scan-testnet.muchain.io
+https://scan-testnet.pandora.net
 
 #### Test Coin Faucet
 
-https://scan-testnet.muchain.io/faucet
+https://scan-testnet.pandora.net/faucet
 
 
 #### Technical Support Email
@@ -139,12 +139,12 @@ info@muchain.io
 ## Interact with Us on Social Media
 
 - Twitter: https://twitter.com/ShibMuChain
-- Telegram Channel: https://t.me/ShibMuChain
-- Medium: https://medium.com/heco-chain
+- Telegram Channel: https://t.me/pandoraDAO
+- Medium: https://medium.com/pandora
 - GitHub: https://github.com/shibchain/public-chain
-- SHIBC Explorer: https://explorer.muchain.io
+- SHIBC Explorer: https://explorer.pandora.net
 - Documentation: https://docs.muchain.io/#/en-us/intro
-- Website: https://www.muchain.io/en-us/
+- Website: https://www.pandora.net/en-us/
 
 
 ## Risk Warning
