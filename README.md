@@ -112,23 +112,23 @@ In October 2021, HECO has now entered the "Spark" phase, which focuses on improv
 ### Participate in Test Environment of SHIBC
 
 #### Official Website
-www.muchain.io
+www.pandola.net
 
 #### Public Testnet
 chainid 256
 
 #### PRC
 
-wss://ws-testnet.pandora.net
-https://http-testnet.pandora.net
+wss://ws-testnet.pandola.net
+https://http-testnet.pandola.net
 
 #### Blockchain Explorer
 
-https://scan-testnet.pandora.net
+https://scan-testnet.pandola.net
 
 #### Test Coin Faucet
 
-https://scan-testnet.pandora.net/faucet
+https://scan-testnet.pandola.net/faucet
 
 
 #### Technical Support Email
@@ -142,8 +142,8 @@ info@muchain.io
 - Telegram Channel: https://t.me/pandoraDAO
 - Medium: https://medium.com/pandora
 - GitHub: https://github.com/shibchain/public-chain
-- SHIBC Explorer: https://explorer.pandora.net
-- Documentation: https://docs.muchain.io/#/en-us/intro
+- SHIBC Explorer: https://explorer.pandola.net
+- Documentation: https://docs.pandola.net/#/en-us/intro
 - Website: https://www.pandora.net/en-us/
 
 
